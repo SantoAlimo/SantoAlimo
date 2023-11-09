@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantoAlimo
 - 👀 I’m interested in a career as a Front End Software Engineer.
-- 🌱 I’m currently learning JavaScript, React.
+- 🌱 I’m currently learning JavaScript, React, and Python.
 - 💞️ I’m looking to collaborate on websites and apps
 - 📫 How to reach me via email @santoalimo0@gmail.com
 
